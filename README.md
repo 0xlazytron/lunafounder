@@ -1,7 +1,7 @@
 # ![LunaFounders Logo](https://lunafounder.io/assets/logo_luna-DZI4ZYSA.png)
 
 ## 🎫 Ticket #9297
-Welcome to **lunafounder.io**, A LunaFounder NFT is a limited digital asset on the Solana blockchain. It grants you a stake in LunaCasino and access to exclusive features such as monthly lottery tickets and streamline bonuses. 15% of LunaCasino’s net profit is distributed monthly to all LunaFounder NFT holders—proportionally based on the NFT value.
+Welcome to **lunafounder.io**, A LunaFounder NFT is a limited digital asset on the Solana blockchain. It grants you a stake in LunaCasino and access to exclusive features such as monthly lottery tickets and streamline bonuses. 15% of LunaCasino's net profit is distributed monthly to all LunaFounder NFT holders—proportionally based on the NFT value.
 
 ---
 
@@ -15,29 +15,53 @@ Welcome to **lunafounder.io**, A LunaFounder NFT is a limited digital asset on t
 
 ### Luna Founder NFTs
 
-- **Luna Founder 50**
-  ![Luna Founder 50](https://pvyl4rjlhccekj3bedhlmmcgplfn652zro4c2klz7nvuz7canowq.arweave.net/fXC-RSs4hEUnYSDOtjBGesrfd1mLuC0peftrTPxAa60?ext=webm)
+- **Luna Founder 50**  
+  <video width="320" height="240" controls>
+    <source src="public/webm/50.webm" type="video/webm">
+    Your browser does not support the video tag.
+  </video>
 
-- **Luna Founder 100**
-  ![Luna Founder 100](https://node1.irys.xyz/xJ4ZjfrMKarhCBmJ6ePZtHs6Yi7eLVhfvPeXfcZHLyo)
+- **Luna Founder 100**  
+  <video width="320" height="240" controls>
+    <source src="public/webm/100.webm" type="video/webm">
+    Your browser does not support the video tag.
+  </video>
 
-- **Luna Founder 500**
-  ![Luna Founder 500](https://node1.irys.xyz/WFq8Qn5Au_or9xJIhBXABYEDYrAnOWT9Y8Z_7Y_r1g4)
+- **Luna Founder 500**  
+  <video width="320" height="240" controls>
+    <source src="public/webm/500.webm" type="video/webm">
+    Your browser does not support the video tag.
+  </video>
 
-- **Luna Founder 1000**
-  ![Luna Founder 1000](https://node1.irys.xyz/RYjodBpzB3zZ7INalaSZ5zp1OV16x_sASU-_yTkYrXw)
+- **Luna Founder 1000**  
+  <video width="320" height="240" controls>
+    <source src="public/webm/1000.webm" type="video/webm">
+    Your browser does not support the video tag.
+  </video>
 
-- **Luna Founder 5000**
-  ![Luna Founder 5000](https://node1.irys.xyz/u7Ov7FtwuMYlfsR65xyxeRKvK-HNScu9ZsQZWvjxMUM)
+- **Luna Founder 5000**  
+  <video width="320" height="240" controls>
+    <source src="public/webm/5000.webm" type="video/webm">
+    Your browser does not support the video tag.
+  </video>
 
-- **Luna Founder 10000**
-  ![Luna Founder 10000](https://node1.irys.xyz/Nhwlyd6kWFva2H-6JpnTK2mNXIJz9Zpx9NxLjQVdTEk)
+- **Luna Founder 10000**  
+  <video width="320" height="240" controls>
+    <source src="public/webm/10000.webm" type="video/webm">
+    Your browser does not support the video tag.
+  </video>
 
-- **Luna Founder 25000**
-  ![Luna Founder 25000](https://node1.irys.xyz/rfYvsQr6YXqY5aJPC_qaAAUNoYEci8weIt49llVhcKs)
+- **Luna Founder 25000**  
+  <video width="320" height="240" controls>
+    <source src="public/webm/25000.webm" type="video/webm">
+    Your browser does not support the video tag.
+  </video>
 
-- **Luna Founder 50000**
-  ![Luna Founder 50000](https://node1.irys.xyz/zefve2qmQCwf9NjhLfx6OtZCDSXnoyShUosL0hmICKg)
+- **Luna Founder 50000**  
+  <video width="320" height="240" controls>
+    <source src="public/webm/50000.webm" type="video/webm">
+    Your browser does not support the video tag.
+  </video>
 
 
 
@@ -60,8 +84,8 @@ Welcome to **lunafounder.io**, A LunaFounder NFT is a limited digital asset on t
 
 ## 💬 Connect with Us
 
-- **Website**: [LunaLotto.io](https://lunafounder.io)
-- **Twitter**: [@LunaLotto](https://x.com/lunafounder1)
+- **Website**: [lunafounder.io](https://lunafounder.io)
+- **Twitter**: [@lunafounder1](https://x.com/lunafounder1)
 
 Join the revolution of NFT-powered lotteries with **lunafounder.io**!
 
